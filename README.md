@@ -19,7 +19,7 @@
 <br>
 
 <p align="center">
-  <img alt="RocketShoes" src="https://user-images.githubusercontent.com/79451027/155978602-54bf7bee-3be2-4d8e-9121-fb37354e688c.png" width="50%">
+  <img alt="RocketShoes" src="https://user-images.githubusercontent.com/79451027/155978602-54bf7bee-3be2-4d8e-9121-fb37354e688c.png" width="70%">
 </p>
 
 ## ✨ Tecnologias
