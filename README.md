@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="RocketShoes" title="RocketShoes" src="../../assets/images/logo.svg" />
+  <img alt="RocketShoes" title="RocketShoes" src="https://user-images.githubusercontent.com/79451027/155979810-78fc53aa-6cda-475e-9bdc-df58e77f7899.png" />
 </h1>
 
 <p align="center">
@@ -19,7 +19,7 @@
 <br>
 
 <p align="center">
-  <img alt="RocketShoes" src="../../assets/images/readmeImage.png" width="100%">
+  <img alt="RocketShoes" src="https://user-images.githubusercontent.com/79451027/155978602-54bf7bee-3be2-4d8e-9121-fb37354e688c.png" width="50%">
 </p>
 
 ## ✨ Tecnologias
@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-A RocketShoes é um desafio para os alunos da RocketSeat. Nesse desafio tive que criar uma aplicação para treinar o que aprendi até agora no ReactJS
+A RocketShoes é um desafio para os alunos da RocketSeat. Nesse desafio tive que criar uma aplicação para treinar o que aprendi até agora no ReactJS.
 
 O meu principal objetivo é criar um hook de carrinho de compras além de implementar as funcionalidades exigidas:
 
